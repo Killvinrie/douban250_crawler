@@ -1,0 +1,3 @@
+http://www.crazyant.net/	蚂蚁学Python – 你有没有为写代码拼过命？那你知不知道 人生苦短，我用Python？
+http://www.crazyant.net/3511.html	Selenium怎样指定chromedriver的路径 – 蚂蚁学Python
+http://www.crazyant.net/3506.html	MySQL创建数据库时指定中文编码 – 蚂蚁学Python
